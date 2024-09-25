@@ -21,3 +21,5 @@ const arr = [64, 34, 25, 12, 22, 11, 91];
 
 // Call bubble sort and print the array after each pass
 bubbleSort(arr);
+
+// Added a new comment in main branch as 3rd commit
