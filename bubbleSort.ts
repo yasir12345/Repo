@@ -28,3 +28,6 @@ bubbleSort(arr);
 // Added a new comment in main branch as 3rd commit
 
 // Added a new comment in main branch as 4th commit
+
+
+// Added another line in feature after the squash merge into feature as 5th commit
