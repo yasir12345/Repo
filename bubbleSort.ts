@@ -22,6 +22,12 @@ const arr = [64, 34, 25, 12, 22, 11, 91];
 // Call bubble sort and print the array after each pass
 bubbleSort(arr);
 
+// new line added in feature branch first commit
+
+// added another line in feature branch second commit
 // Added a new comment in main branch as 3rd commit
 
 // Added a new comment in main branch as 4th commit
+
+
+// Added another line in feature after the squash merge into feature as 5th commit
