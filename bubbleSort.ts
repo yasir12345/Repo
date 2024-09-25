@@ -22,4 +22,6 @@ const arr = [64, 34, 25, 12, 22, 11, 91];
 // Call bubble sort and print the array after each pass
 bubbleSort(arr);
 
-// new line added from feature branch first commit
+// new line added in feature branch first commit
+
+// added another line in feature branch second commit
