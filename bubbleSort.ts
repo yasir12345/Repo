@@ -35,3 +35,7 @@ bubbleSort(arr);
 // Added another line in feature after the squash merge into feature as 5th commit
 
 // Add another change in main after bug changes
+// Another feature branch commit 1
+// Another bug branch commit 1
+// Another bug branch commit 2
+// Add another change in main after bug changes
