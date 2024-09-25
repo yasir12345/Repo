@@ -27,6 +27,8 @@ bubbleSort(arr);
 // added another line in feature branch second commit
 // Added a new comment in main branch as 3rd commit
 
+// Add a change in main after bug changes
+
 // Added a new comment in main branch as 4th commit
 
 
